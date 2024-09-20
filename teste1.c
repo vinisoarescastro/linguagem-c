@@ -11,5 +11,4 @@ int main() {
     printf("Dado de texto: %s.\n", "testando");
     
     return 0;
-
 }
