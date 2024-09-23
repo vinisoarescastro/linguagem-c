@@ -17,9 +17,9 @@ if (condição) {
 Uma expressão que é avaliada como verdadeira (true) ou falsa (false).
 
 Exemplos de operadores de comparação:
-- '==' (igualdade)
-- '!=' (diferente)
-- '>' (maior que)
-- '<' (menor que)
-- '>=' (maior ou igual a)
-- '<=' (menor ou igual a)
+- `==` (igualdade)
+- `!=` (diferente)
+- `>` (maior que)
+- `<` (menor que)
+- `>=` (maior ou igual a)
+- `<=` (menor ou igual a)
