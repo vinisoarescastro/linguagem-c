@@ -10,6 +10,7 @@ A estrutura básica do `if` é a seguinte:
 if (condição) {
     // Código a ser executado se a condição for verdadeira
 }
+```
 
 ## Condições
 
